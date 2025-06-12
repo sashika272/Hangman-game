@@ -1,0 +1,8 @@
+hangman-game/
+├── hangman.py
+├── words.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+└── assets/
+    └── hangman_stages.txt
